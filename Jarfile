@@ -1,0 +1,1 @@
+jar "com.google.bitcoin"
