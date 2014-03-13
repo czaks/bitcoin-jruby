@@ -1,1 +1,3 @@
-jar "com.google.bitcoin"
+repository 'http://distribution.bitcoinj.googlecode.com/git/releases'
+
+jar 'com.google:bitcoinj'
